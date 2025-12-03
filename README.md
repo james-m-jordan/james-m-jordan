@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @james-m-jordan
-- 👀 I’m interested in epigentics, metabolism, and liver cells
+- 👀 I’m interested in epigenetics, metabolism, and liver cells
 - 📫 How to reach me at jim@jordanlab.org; jmjordan@bio.fsu.edu
 
 <!---
